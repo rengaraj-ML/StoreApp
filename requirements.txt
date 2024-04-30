@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain-community
+langchain-experimental
+mysqlclient
+sqlparse
+mysql-connector-python
+PyMySQL
+pandasai
+langchain
+transformers
+sentence-transformers
+chromadb
+langchain-openai
