@@ -44,9 +44,10 @@ def config():
 
 # Setting up URL parameter to connect to MySQL Database
 def get_db_chain(question):
-    db_user="root"
-    db_password="root"
-    db_host="localhost"
+    
+    db_user="admin"
+    db_password="Epperson"
+    db_host="retail.cd6uaise2moh.us-west-2.rds.amazonaws.com"
     db_name="retail"
     
     # create LLM
